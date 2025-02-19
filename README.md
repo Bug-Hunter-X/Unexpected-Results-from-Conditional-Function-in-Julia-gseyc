@@ -1,0 +1,1 @@
+This repository contains a Julia function that exhibits unexpected behavior for negative inputs. The `my_function` is intended to return the square of a positive number or 0 for non-positive numbers. However, it returns an incorrect result for negative inputs. The solution demonstrates a corrected version that correctly handles both positive and negative numbers.
